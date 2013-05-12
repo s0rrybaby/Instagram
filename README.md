@@ -1,4 +1,0 @@
-Instagram
-=========
-
-For auto like
